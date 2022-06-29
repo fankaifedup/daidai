@@ -1,13 +1,13 @@
 {
-    "title":"Haha",
-    "name":"大傻逼",
+    "title":"wulicheng",
+    "name":"wulicheng",
     "type":"object",
-    "imageUrl":"https://ipfs.io/ipfs/QmXT7Dd2CBmZAM5aC7BKmra2mXriE8bS1A8hSniSrW8XeV?filename=e.jpg",
-    "description":"I love sleep",
+    "imageUrl":"https://ipfs.io/ipfs/QmNmHefY6HZy9mVqgvwQZHMU7iFrKfJb3LaZp7rcEbtJrd?filename=wulicheng.png",
+    "description":"Fedup",
     "attributes":[
        {
           "trait_type":"Creator",
-          "value":"Frank\u015f"
+          "value":"fedup\u015f"
        }
     ],
     "properties":{
@@ -21,7 +21,7 @@
        },
        "preview_media_file":{
           "type":"string",
-          "description":"https://ipfs.io/ipfs/QmcE5f2ogJ3rPjPxofdeL79jVZ8hVrDaNDw2Htg7A2egxj?filename=b.png"
+          "description":"https://ipfs.io/ipfs/QmNmHefY6HZy9mVqgvwQZHMU7iFrKfJb3LaZp7rcEbtJrd?filename=wulicheng.png"
        },
        "preview_media_file_type":{
           "type":"string",

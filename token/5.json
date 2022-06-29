@@ -1,13 +1,13 @@
 {
-    "title":"Lazy Cat",
-    "name":"Lazy Jack Cat",
+    "title":"Doulbeo",
+    "name":"dou",
     "type":"object",
-    "imageUrl":"https://ipfs.io/ipfs/QmcE5f2ogJ3rPjPxofdeL79jVZ8hVrDaNDw2Htg7A2egxj?filename=b.png",
-    "description":"I love sleep",
+    "imageUrl":"https://ipfs.io/ipfs/QmSrBBZ118HpXqyTdFdzWsMHKP7KuwrTsKC1sgU1W9zUTx?filename=unnamed.jpg",
+    "description":"dd",
     "attributes":[
        {
           "trait_type":"Creator",
-          "value":"Frank\u015f"
+          "value":"dd\u015f"
        }
     ],
     "properties":{
@@ -21,7 +21,7 @@
        },
        "preview_media_file":{
           "type":"string",
-          "description":"https://ipfs.io/ipfs/QmcE5f2ogJ3rPjPxofdeL79jVZ8hVrDaNDw2Htg7A2egxj?filename=b.png"
+          "description":"https://ipfs.io/ipfs/QmSrBBZ118HpXqyTdFdzWsMHKP7KuwrTsKC1sgU1W9zUTx?filename=unnamed.jpg"
        },
        "preview_media_file_type":{
           "type":"string",

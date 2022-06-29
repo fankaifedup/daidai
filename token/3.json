@@ -1,9 +1,9 @@
 {
   "title":"azuki",
-  "name":"Baseball girl",
+  "name":"Skateboarding man",
   "type":"object",
-  "imageUrl":"https://ipfs.io/ipfs/QmWepDvSQ36x1bwLxuQBsmX35QHitCEHkrirXNXfBcn7JG?filename=azk.png",
-  "description":"I love Baseball",
+  "imageUrl":"https://ipfs.io/ipfs/QmXT7Dd2CBmZAM5aC7BKmra2mXriE8bS1A8hSniSrW8XeV?filename=e.jpg",
+  "description":"Skateboarding",
   "attributes":[
      {
         "trait_type":"Creator",
@@ -21,7 +21,7 @@
      },
      "preview_media_file":{
         "type":"string",
-        "description":"https://ipfs.io/ipfs/QmWepDvSQ36x1bwLxuQBsmX35QHitCEHkrirXNXfBcn7JG?filename=azk.png"
+        "description":"https://ipfs.io/ipfs/QmXT7Dd2CBmZAM5aC7BKmra2mXriE8bS1A8hSniSrW8XeV?filename=e.jpg"
      },
      "preview_media_file_type":{
         "type":"string",
